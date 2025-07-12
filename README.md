@@ -2,7 +2,7 @@
 
 # Hi, I'm Atharva 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Engineer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Atharva0177&style=flat-square&color=blue" alt="Profile views" />
 
@@ -16,6 +16,7 @@
 🎯 Passionate about creating impactful solutions
 🌱 Always learning and exploring new technologies  
 💡 Love turning ideas into reality through code
+🤖 Exploring the fascinating world of AI/ML
 🤝 Open to collaboration on interesting projects
 ☕ Fueled by coffee and curiosity
 ```
@@ -32,7 +33,8 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Machine Learning" width="50" height="50" />
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
@@ -70,10 +72,56 @@
 
 ---
 
-## 🚀 Current Coding Session
+## 🎮 Interactive Developer Console
 
 <div align="center">
-<img src="https://github.com/Atharva0177/Atharva0177/blob/output/github-contribution-grid-snake.svg" alt="Coding streak" />
+
+```bash
+┌─[atharva@dev-machine]─[~]
+└──╼ $ whoami
+> Full Stack Developer & ML Engineer
+
+┌─[atharva@dev-machine]─[~]  
+└──╼ $ cat skills.json
+{
+  "languages": ["Python", "JavaScript", "TypeScript"],
+  "frameworks": ["React", "TensorFlow", "Docker"],
+  "databases": ["MySQL", "MongoDB"],
+  "tools": ["Git", "HuggingFace", "VS Code"],
+  "status": "always_learning",
+  "coffee_level": "maximum ☕"
+}
+
+┌─[atharva@dev-machine]─[~]
+└──╼ $ git log --oneline --graph
+* 🚀 Building awesome projects
+* 🤖 Exploring AI/ML frontiers  
+* 💡 Solving complex problems
+* 🌱 Learning new technologies
+* ☕ Drinking coffee...
+
+┌─[atharva@dev-machine]─[~]
+└──╼ $ ls current_projects/
+ai_experiments/    web_apps/    open_source/    learning_notes/
+
+┌─[atharva@dev-machine]─[~]
+└──╼ $ fortune | cowsay
+ _________________________________
+< "Code is like humor. When you    >
+< have to explain it, it's bad."   >
+ ---------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+┌─[atharva@dev-machine]─[~]
+└──╼ $ █
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=400&lines=System+Status%3A+Online+%E2%9C%85;Creativity+Level%3A+Maximum+%F0%9F%9A%80;Bug+Status%3A+Debugging...+%F0%9F%90%9B;Coffee+Status%3A+Refueling+%E2%98%95" alt="Console Status" />
+
 </div>
 
 ---
