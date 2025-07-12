@@ -37,6 +37,7 @@
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
 
 </div>
@@ -60,7 +61,7 @@
 
 <div align="center">
 
-
+![image1](image1)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva0177&theme=github_dark" alt="Contribution Graph" />
 
