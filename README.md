@@ -56,10 +56,33 @@
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Overview
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva0177&custom_title=📊+Contribution+Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+
+![image1](image1)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva0177&theme=github_dark" alt="Contribution Graph" />
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharva0177&theme=github_dark" alt="Top Languages by Repo" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharva0177&theme=github_dark" alt="Top Languages by Commits" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharva0177&theme=github_dark" alt="Stats" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Atharva0177&theme=github_dark&utcOffset=8" alt="Commits" />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -72,55 +95,37 @@
 
 ---
 
-## 🎮 Interactive Developer Console
+## 🎨 My Coding DNA Sequence
 
 <div align="center">
 
-```bash
-┌─[atharva@dev-machine]─[~]
-└──╼ $ whoami
-> Full Stack Developer & ML Engineer
-
-┌─[atharva@dev-machine]─[~]  
-└──╼ $ cat skills.json
-{
-  "languages": ["Python", "JavaScript", "TypeScript"],
-  "frameworks": ["React", "TensorFlow", "Docker"],
-  "databases": ["MySQL", "MongoDB"],
-  "tools": ["Git", "HuggingFace", "VS Code"],
-  "status": "always_learning",
-  "coffee_level": "maximum ☕"
-}
-
-┌─[atharva@dev-machine]─[~]
-└──╼ $ git log --oneline --graph
-* 🚀 Building awesome projects
-* 🤖 Exploring AI/ML frontiers  
-* 💡 Solving complex problems
-* 🌱 Learning new technologies
-* ☕ Drinking coffee...
-
-┌─[atharva@dev-machine]─[~]
-└──╼ $ ls current_projects/
-ai_experiments/    web_apps/    open_source/    learning_notes/
-
-┌─[atharva@dev-machine]─[~]
-└──╼ $ fortune | cowsay
- _________________________________
-< "Code is like humor. When you    >
-< have to explain it, it's bad."   >
- ---------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-┌─[atharva@dev-machine]─[~]
-└──╼ $ █
 ```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=400&lines=System+Status%3A+Online+%E2%9C%85;Creativity+Level%3A+Maximum+%F0%9F%9A%80;Bug+Status%3A+Debugging...+%F0%9F%90%9B;Coffee+Status%3A+Refueling+%E2%98%95" alt="Console Status" />
+╭─────────────────── DNA ANALYSIS COMPLETE ───────────────────╮
+│                                                               │
+│  🧬 GENETIC CODE: ATGCGATCGTAGCTAGCTA...                     │
+│                                                               │
+│  🔬 ANALYSIS RESULTS:                                         │
+│     ├─ 42% Problem Solving Genes                             │
+│     ├─ 28% Coffee Metabolism Enhancement                      │
+│     ├─ 18% Curiosity & Learning Adaptation                   │
+│     ├─ 8% Bug Detection Sensitivity                          │
+│     └─ 4% Syntax Error Immunity                              │
+│                                                               │
+│  🎯 DOMINANT TRAITS:                                          │
+│     • Compiles first try (rare mutation)                     │
+│     • Natural Python speaker                                 │
+│     • Enhanced debugging vision                              │
+│     • Infinite loop resistance                               │
+│                                                               │
+│  ⚠️  GENETIC QUIRKS:                                          │
+│     • Allergic to missing semicolons                         │
+│     • Requires dark theme for optimal function               │
+│     • 3x productivity boost when music is playing            │
+│                                                               │
+│  🚀 EVOLUTIONARY STAGE: Senior.Developer.v2025               │
+│                                                               │
+╰───────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
