@@ -61,7 +61,6 @@
 
 <div align="center">
 
-![image1](image1)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva0177&theme=github_dark" alt="Contribution Graph" />
 
