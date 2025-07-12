@@ -44,6 +44,18 @@
 
 ---
 
+## 🎵 Currently Jamming To
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Atharva0177)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=400&lines=🎧+Coding+with+beats;🎶+Music+fuels+creativity;🚀+Vibes+%2B+Code+%3D+Magic" alt="Music Status" />
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -61,6 +73,7 @@
 
 <div align="center">
 
+![image1](image1)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharva0177&theme=github_dark" alt="Contribution Graph" />
 
