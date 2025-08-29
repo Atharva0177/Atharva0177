@@ -50,7 +50,7 @@
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva0177&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈+GitHub+Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Atharva0177&theme=tokyonight&hide_border=true&card_width=300" />
+<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Atharva0177&theme=tokyonight&hide_border=true&card_width=300" />
 </div>
 
 <div align="center">
