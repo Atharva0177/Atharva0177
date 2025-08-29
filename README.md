@@ -140,7 +140,7 @@
 <a href="mailto:mandavkaratharva@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
-<a href="www.linkedin.com/in/atharva-mandavkar-b66b94179">
+<a href="https://www.linkedin.com/in/atharva-mandavkar-b66b94179/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
 <a href="https://github.com/Atharva0177">
