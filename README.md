@@ -49,12 +49,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Atharva0177&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈+GitHub+Stats" />
-<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Atharva0177&theme=tokyonight&hide_border=true&card_width=300" /> -->
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva0177&layout=donut&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" width="350" />
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Atharva0177&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=%F0%9F%93%88%20GitHub%20Stats" />
+  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva0177&layout=donut&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </div>
 
 ---
@@ -97,41 +93,7 @@
 
 ---
 
-## 🎨 My Coding DNA Sequence
 
-<div align="center">
-
-```
-╭─────────────────── DNA ANALYSIS COMPLETE ───────────────────╮
-│                                                               │
-│  🧬 GENETIC CODE: ATGCGATCGTAGCTAGCTA...                     │
-│                                                               │
-│  🔬 ANALYSIS RESULTS:                                         │
-│     ├─ 42% Problem Solving Genes                             │
-│     ├─ 28% Coffee Metabolism Enhancement                      │
-│     ├─ 18% Curiosity & Learning Adaptation                   │
-│     ├─ 8% Bug Detection Sensitivity                          │
-│     └─ 4% Syntax Error Immunity                              │
-│                                                               │
-│  🎯 DOMINANT TRAITS:                                          │
-│     • Compiles first try (rare mutation)                     │
-│     • Natural Python speaker                                 │
-│     • Enhanced debugging vision                              │
-│     • Infinite loop resistance                               │
-│                                                               │
-│  ⚠️  GENETIC QUIRKS:                                          │
-│     • Allergic to missing semicolons                         │
-│     • Requires dark theme for optimal function               │
-│     • 3x productivity boost when music is playing            │
-│                                                               │
-│  🚀 EVOLUTIONARY STAGE: Senior.Developer.v2025               │
-│                                                               │
-╰───────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
