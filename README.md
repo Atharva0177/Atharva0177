@@ -58,16 +58,6 @@
 ---
 
 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Atharva0177&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=%F0%9F%93%88%20GitHub%20Stats" />
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva0177&layout=donut&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</div>
-
----
-
 ## 📈 Contribution Overview
 
 <div align="center">
