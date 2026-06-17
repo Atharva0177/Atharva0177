@@ -10,8 +10,8 @@
 
 ## 🚀 About
 
-<!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<div align="center">
+ <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+
 ```
 🎯 Passionate about creating impactful solutions
 🌱 Always learning and exploring new technologies  
@@ -20,7 +20,7 @@
 🤝 Open to collaboration on interesting projects
 ☕ Fueled by coffee and curiosity
 ```
-</div>
+
 <br clear="both"/>
 
 ---
