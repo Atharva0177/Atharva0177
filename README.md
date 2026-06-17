@@ -20,7 +20,7 @@
 🤝 Open to collaboration on interesting projects
 ☕ Fueled by coffee and curiosity
 ```
-
+</div>
 <br clear="both"/>
 
 ---
